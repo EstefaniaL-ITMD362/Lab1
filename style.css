@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Rancho&effect=neon');
+#bod
+{
+  background-image: linear-gradient(to right, rgb(0, 162, 255), rgb(39, 133, 139));
+}
+#title
+{
+  text-align: center;
+}
+
+h2{
+  color: rgb(124, 38, 124);
+}
+img{
+  padding: 10px 10px 10px 50px;
+}
